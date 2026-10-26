@@ -28,9 +28,9 @@ My path is not the usual one. I hold bachelor's degrees in **Business Administra
 
 ### [AXL](https://github.com/Mrpapaco1/AXL) — SLA audit & NOC operations platform
 
-<sub>Running in production at the NOC where I work. The [public version](https://github.com/Mrpapaco1/AXL) replaces every company and personal detail with fictional data.</sub>
+<sub>Running in production at the NOC where I work. The [public version](https://github.com/Mrpapaco1/AXL) replaces every company and personal detail with fictional data · ▶ **[Live demo](https://mrpapaco1.github.io/AXL/)**</sub>
 
-<a href="https://github.com/Mrpapaco1/AXL">
+<a href="https://mrpapaco1.github.io/AXL/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/axl-radar-dark.png">
     <img alt="AXL Radar: team notice, shift timeline and the queue of tickets that need the analyst's action (fictional data)" src="assets/axl-radar-light.png">
