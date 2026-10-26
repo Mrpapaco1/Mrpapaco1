@@ -26,13 +26,20 @@ My path is not the usual one. I hold bachelor's degrees in **Business Administra
 
 ## Featured project
 
-### AXL — SLA audit & NOC operations platform
+### [AXL](https://github.com/Mrpapaco1/AXL) — SLA audit & NOC operations platform
 
-<sub>🔒 Private repository · internal platform at Braz Móvel</sub>
+<sub>Running in production at the NOC where I work. The [public version](https://github.com/Mrpapaco1/AXL) replaces every company and personal detail with fictional data.</sub>
 
-AXL audits every incident Braz Móvel opens with Vivo against a five-business-day SLA, flags the ones the carrier is stalling, and drafts the follow-up an analyst would write. It also turns support chats into team productivity metrics and gives each partner provider a window into its own tickets.
+<a href="https://github.com/Mrpapaco1/AXL">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/axl-radar-dark.png">
+    <img alt="AXL Radar: team notice, shift timeline and the queue of tickets that need the analyst's action (fictional data)" src="assets/axl-radar-light.png">
+  </picture>
+</a>
 
-- **SLA radar** — a live queue ordered by deadline, with business-day countdowns and stalled-ticket detection (evasive replies or carrier silence).
+AXL audits every carrier incident Braz Móvel opens against a five-business-day SLA, flags the ones that stop moving, and drafts the follow-up an analyst would write. It also turns support chats into team productivity metrics and gives each partner provider a window into its own tickets.
+
+- **SLA radar** — a live queue ordered by deadline, with business-day countdowns and automatic detection of tickets that stopped moving.
 - **AI-drafted follow-ups** — written in the analyst's voice, one specific question per case, always reviewed by a person before sending.
 - **Team analytics** — first-contact resolution, recurrence and top offenders from support chats, plus a monthly executive report.
 - **Automated portability re-checks** against the carrier API, with per-run caps and a kill switch.
